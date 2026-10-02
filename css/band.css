@@ -1,36 +1,36 @@
-.section-container {
+.section-container{
     max-width: 800px;
     margin: auto;
-    padding: 64px 16px;
 }
  
-.section-title {
+.section-titulo{
     text-align: center;
-    letter-spacing: 4px;
+    letter-spacing: 40ox;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 400PX;
 }
  
-.section-subtitle {
+.section-subtitulo{
     text-align: center;
-    font-family: italic;
+    font-style: italic;
     opacity: 0.6;
     margin: 15px 0;
 }
  
-.about-text {
+.about-text{
     text-align: justify;
     margin-bottom: 30px;
+ 
 }
  
-.member-grid  {
+.members-grid{
     display: flex;
     justify-content: space-around;
     text-align: center;
     padding: 32px 0;
 }
  
-.member-card img {
+.meber-card img{
     width: 160px;
     border-radius: 4px;
     margin-top: 15px;

@@ -1,16 +1,16 @@
-* {
-    margin:0;
+*{
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow','Arial, sans-serif';
 }
  
-html {
+html{
     scroll-behavior: smooth;
 }
  
-body {
-    color: black;
-    background-color: rgb(255, 255, 255);
-    line-height: 1.5; /*Altura entre linhas*/
+body{
+    color: rgb(0, 0, 0);
+    background-color: rgb(253, 253, 253);
+    line-height: 1.5;/*Altura ente linhas*/
 }

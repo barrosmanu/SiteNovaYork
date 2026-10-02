@@ -1,8 +1,9 @@
-.tour-section {
-   background-color: black;
-   color: aliceblue;
+.tour-section{
+    background-color: rgb(0, 0, 0);
+    color: white;
+ 
 }
  
-.text-white {
-    color: aliceblue;
+.A{
+    color: antiquewhite;
 }

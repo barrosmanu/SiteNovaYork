@@ -1,5 +1,5 @@
-.hero {
-    background: url(../imagens/photo.avif);
+.hero{
+    background: url(../CSS/imagem/photo.avif);
     height: 100vh;
     background-repeat: no-repeat;
     background-position: center;
@@ -7,11 +7,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /*text-align: center;*//*Também pode ser usado*/
-    /*align-content: center;*//*Também pode ser usado*/
+    color: aliceblue;
 }
  
-.hero-caption {
-    color: #fff;
+.hero-caption{
+    color: azure;
     text-align: center;
 }
